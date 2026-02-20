@@ -4,7 +4,7 @@ This src is structured in four main modules:
     - Server
     - Format (only for formatted prints with colors)
 
-For the cryptographic solution I mainly used pycryptodome because is the main recommended library in the course.
+For the cryptographic solution I mainly used pycryptodome because is the main recommended library.
 Now, the features implemented on the system, assuming no concurrency management and all users authenticated to the server for the cryptographic solution to work.
 
 ## Module Client
