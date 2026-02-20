@@ -1,7 +1,4 @@
 
-Project 2, Topic 2: Echover. 
-Iván Fernández López - 12508897W
-
 This src is structured in four main modules: 
     - Client
     - Server
